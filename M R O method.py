@@ -13,7 +13,7 @@ class B(A):
 
     def feture1(self):
         print(" feature 1 b is working")
-
+GGG
     def feature2(self):
         print("feture 2 is working")
 
